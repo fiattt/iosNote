@@ -72,7 +72,7 @@
 
     
     
-//    //从网络得到图片
+//    //从网络得到图片  这个在主进程中在跑 会卡   后续应该放在线程中进行加载
 //    UIImage *image = [[UIImage alloc]initWithData:[NSData dataWithContentsOfURL:[NSURL URLWithString:@"http://pic21.nipic.com/20120604/10209159_110645695180_2.jpg"]]];
 //    imageView.image = image;
 //    label.text = @"这是一只狗";
