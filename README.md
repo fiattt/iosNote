@@ -36,3 +36,9 @@ xcode6中新建功能中没有了Empty Application，这是不让朕手写代码
 
 在xcode6中新建Empty Application步骤：[http://stackoverflow.com/questions/25783282/how-to-create-an-empty-application-in-xcode-6-without-storyboard](http://stackoverflow.com/questions/25783282/how-to-create-an-empty-application-in-xcode-6-without-storyboard)
 
+
+
+
+###各种细节
+* 修改修改文件注释作者啥的。系统中改用户全名即可。偏好设置-用户群组-开锁-右击高级选项。。。改完了记得重启。。
+* xcode的模拟器缩放command+1 command+2 command+3
