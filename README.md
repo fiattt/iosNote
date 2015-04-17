@@ -44,3 +44,4 @@ xcode6中新建功能中没有了Empty Application，这是不让朕手写代码
 * xcode的模拟器缩放command+1 command+2 command+3
 * xcode6中显示行号：菜单->Prefernces->Text Editing->line numbers
 * 使用Alcatraz来管理Xcode插件。类似插件市场。[http://blog.devtang.com/blog/2014/03/05/use-alcatraz-to-manage-xcode-plugins/?utm_source=tuicool](http://blog.devtang.com/blog/2014/03/05/use-alcatraz-to-manage-xcode-plugins/?utm_source=tuicool)
+* 快速定位当前编辑文件位置：右键->Reveal in Project Navigator
